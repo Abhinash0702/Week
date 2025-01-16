@@ -8,7 +8,7 @@ public class Lv03_Problem4_AbundantNumber {
         System.out.print("Enter a number: ");
         int number = input.nextInt();
 
-        // Initialize sum of divisors
+        // Initializing sum of divisors
         int sum = 0;
 
         // Find divisors of the number and calculate their sum
