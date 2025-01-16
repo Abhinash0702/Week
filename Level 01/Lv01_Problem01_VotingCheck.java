@@ -7,7 +7,7 @@ public class Lv01_Problem01_VotingCheck {
 		
         int personAge[]= new int[10];  // defining an array
 		
-		//Taking age as input from user
+		//Take age as input from user
 		for(int i=0;i<personAge.length;i++){
 			System.out.println("Enter the age of "+(i+1)+" Student");
 			personAge[i]=input.nextInt();
