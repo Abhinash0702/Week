@@ -11,7 +11,7 @@ public class Lv03_Problem02_CountDigits {
         // Initialize the count variable
         int count = 0;
 
-        // Count digits using a while loop
+        // Counting digits using a while loop
         while (number != 0) {
             number /= 10;  // Remove the last digit
             count++;  // Increment the digit count
